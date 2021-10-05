@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zlapon
+- 👀 I’m interested in learning programing
+- 🌱 I’m currently learning python
+- 📫 to reach me:ayoubzlitni2010@gmail.com
